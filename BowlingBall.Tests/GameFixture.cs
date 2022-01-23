@@ -6,6 +6,7 @@ namespace BowlingBall.Tests
     [TestClass]
     public class GameFixture
     {
+
         [TestMethod]
         public void Frames_with_combination_of_strikes_and_spare_should_have_correct_score()
         {
